@@ -19,7 +19,7 @@ Before you can use this bot, you need to set up the following:
 ## Installation
 
 1. Clone this repository or download the code to your machine.
-2. Install the required Python packages using pip (ideally in a virtual environment:
+2. Install the required Python packages using pip (ideally in a virtual environment):
 
    ```bash
    pip install -r requirements.txt
